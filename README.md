@@ -8,6 +8,9 @@ Thank you!
 
 Sources used:
 https://pypi.org/project/opencv-python/
+
 https://pypi.org/project/face-recognition/
+
 https://pypi.org/project/dlib/
+
 https://stackoverflow.com/questions/76051897/error-while-install-dlib-on-cmd-could-not-build-wheels-for-dlib
