@@ -5,3 +5,9 @@ Here I have created a program in Python that allows one to use his devices webca
 In order to run this program, make sure that your webcam has access to pycharms, and that the following are installed using the terminal: dlib (My version was dlib==19.23), opencv-python, face_recognition. This way, the libraries used in my program will be accessed and implemented. 
 
 Thank you!
+
+Sources used:
+https://pypi.org/project/opencv-python/
+https://pypi.org/project/face-recognition/
+https://pypi.org/project/dlib/
+https://stackoverflow.com/questions/76051897/error-while-install-dlib-on-cmd-could-not-build-wheels-for-dlib
