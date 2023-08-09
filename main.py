@@ -37,7 +37,7 @@ class FaceRecognition:
             self.known_face_encodings.append(face_encoding)
             self.known_face_peoples.append(image)
 
-        print (self.known_face_peoples) # tests by printing png's names to terminal
+        print (self.known_face_peoples) # tests program functionality by printing png's names to terminal
 
     
     def run_recognition(self):
